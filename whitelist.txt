@@ -314,3 +314,5 @@
 # WhatsApp
 @@||whatsapp.net^$important
 @@||whatsapp.com^$important
+@@||drm.mainrepo.org^$important
+@@||api.mainrepo.org^$important
